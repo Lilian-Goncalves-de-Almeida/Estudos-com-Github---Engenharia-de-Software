@@ -29,4 +29,8 @@ public class Soma {
         int soma = this.num1 + this.num2;
         return soma;
     }
+
+    public double mediaNumeros(){
+        (this.num1 + this.num2) / soma
+    }
 }
